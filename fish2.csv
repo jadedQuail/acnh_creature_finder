@@ -1,0 +1,161 @@
+name,seasonality,location,time,price,size,creature
+Anchovy,All year,Ocean,4AM-9PM,200,Small (2),fish
+Angelfish,May-Oct,River,4PM-9AM,3000,Small (2),fish
+Arapaima,June-Sept,River,4PM-9AM,8000,Largest (6),fish
+Arowana,June-Sept,River,4PM-9AM,10000,Large (4),fish
+Barred Knifejaw,Mar-Nov,Ocean,All day,5000,Medium (3),fish
+Barreleye,All year,Ocean,9PM-4AM,15000,Small (2),fish
+Betta,May-Oct,River,9AM-4PM,2500,Small (2),fish
+Bitterling,Nov-Mar,River,All day,900,Smallest (1),fish
+Black Bass,All year,River,All day,400,Large (4),fish
+Blowfish,Nov-Feb,Ocean,9PM-4AM,5000,Medium (3),fish
+Blue Marlin,Nov-Apr and July-Sept,Pier,All day,10000,Largest (6),fish
+Bluegill,All year,River,9AM-4PM,180,Small (2),fish
+Butterfly Fish,Apr-Sept,Ocean,All day,1000,Small (2),fish
+Carp,All year,River,All day,300,Large (4),fish
+Catfish,May-Oct,Pond,4PM-9AM,800,Large (4),fish
+Char,Mar-June and Sept-Nov,River,4PM-9AM,3800,Medium (3),fish
+Cherry Salmon,Mar-June and Sept-Nov,River(Clifftop),All day,1000,Medium (3),fish
+Clown Fish,Apr-Sept,Ocean,All day,650,Smallest (1),fish
+Coelacanth,All year,Ocean(Rain),All day,15000,Largest (6),fish
+Crawfish,Apr-Sept,Pond,All day,200,Small (2),fish
+Crucian Carp,All year,River,All day,160,Small (2),fish
+Dab,Oct-Apr,Ocean,All day,300,Medium (3),fish
+Dace,All year,River,4PM-9AM,240,Medium (3),fish
+Dorado,June-Sept,River,4AM-9PM,12000,Very Large (5),fish
+Football Fish,Nov-Mar,Ocean,4PM-9AM,2500,Large (4),fish
+Freshwater Goby,All year,River,4PM-9AM,400,Small (2),fish
+Frog,May-Aug,Pond,All day,120,Small (2),fish
+Gar,June-Sept,Pond,4PM-9AM,4800,Largest (6),fish
+Giant Snakehead,June-Aug,Pond,9AM-4PM,5500,Very Large (5),fish
+Giant Trevally,May-Oct,Pier,All day,4500,Large (4),fish
+Golden Trout,Mar-May and Sept-Nov,River(Clifftop),4PM-9AM,15000,Medium (3),fish
+Goldfish,All year,Pond,All day,1300,Smallest (1),fish
+Great White Shark,June-Sept,Ocean,4PM-9AM,15000,Largest (6) (fin),fish
+Guppy,Apr-Nov,River,9AM-4PM,1300,Smallest (1),fish
+Hammerhead Shark,June-Sept,Ocean,4PM-9AM,8000,Largest (6) (fin),fish
+Horse Mackerel,All year,Ocean,All day,150,Small (2),fish
+Killifish,Apr-Aug,Pond,all day,200,Smallest (1),fish
+King Salmon,Sept,River(Mouth),all day,1800,Largest (6),fish
+Koi,All year,Pond,4PM-9AM,4000,Large (4),fish
+Loach,Mar-May,River,All day,400,Small (2),fish
+Mahi-mahi,May-Oct,Ocean,All day,6000,Large (4),fish
+Mitten Crab,Sept-Nov,River,4PM-9AM,2000,Small (2),fish
+Moray Eel,Aug-Oct,Ocean,All day,2000,Narrow,fish
+Napoleonfish,July-Aug,Ocean,4AM-9PM,10000,Largest (6),fish
+Neon Tetra,Apr-Nov,River,9AM-4PM,500,Smallest (1),fish
+Nibble Fish,May-Sept,River,9AM-4PM,1500,Small (2),fish
+Oarfish,Dec-May,Ocean,All day,9000,Largest (6),fish
+Ocean Sunfish,July-Sept,Ocean,4AM-9PM,4000,Largest (6) (fin),fish
+Olive Flounder,All year,Ocean,All day,800,Large (4),fish
+Pale Chub,All year,River,9AM-4PM,200,Smallest (1),fish
+Pike,Sept-Dec,River,All day,1800,Very Large (5),fish
+Piranha,June-Sept,River,9AM-4PM and 4AM-9PM,2500,Small (2),fish
+Pond Smelt,Dec-Feb,River,All day,320,Small (2),fish
+Pop-eyed Goldfish,All year,Pond,9AM-4PM,1300,Smallest (1),fish
+Puffer Fish,July-Sept,Ocean,All day,250,Medium (3),fish
+Rainbowfish,May-Oct,River,9AM-4PM,800,Small (2),fish
+Ranchu Goldfish,All year,Pond,9AM-4PM,4500,Small (2),fish
+Ray,Aug-Nov,Ocean,4AM-9PM,3000,Very Large (5),fish
+Red Snapper,All year,Ocean,All day,3000,Large (4),fish
+Ribbon Eel,July-Oct,Ocean,All day,600,narrow,fish
+Saddled Bichir,June-Sept,River,9PM-4AM,4000,Large (4),fish
+Salmon,Sept,River(Mouth),All day,700,Large (4),fish
+Saw Shark,June-Sept,Ocean,4PM-9AM,12000,Largest (6) (fin),fish
+Sea Bass,All year,Ocean,All day,400,Very Large (5),fish
+Sea Butterfly,Dec-Mar,Ocean,All day,1000,Smallest (1),fish
+Sea Horse,Apr-Nov,Ocean,All day,1100,Smallest (1),fish
+Snapping Turtle,Apr-Oct,River,9PM-4AM,5000,Very Large (5),fish
+Soft-shelled Turtle,Aug-Sept,River,4PM-9AM,3750,Large (4),fish
+Squid,Dec-Aug,Ocean,All day,500,Medium (3),fish
+Stringfish,Dec-Mar,River(Clifftop),4PM-9AM,15000,Largest (6),fish
+Sturgeon,Sept-Mar,River(Mouth),All day,10000,Largest (6),fish
+Suckerfish,June-Sept,Ocean,All day,1500,Large (4) (fin),fish
+Surgeonfish,Apr-Sept,Ocean,All day,1000,Small (2),fish
+Sweetfish,July-Sept,River,All day,900,Medium (3),fish
+Tadpole,Mar-July,Pond,All day,100,Smallest (1),fish
+Tilapia,June-Oct,River,All day,800,Medium (3),fish
+Tuna,Nov-Apr,Pier,All day,7000,Largest (6),fish
+Whale Shark,June-Sept,Ocean,All day,13000,Largest (6) (fin),fish
+Yellow Perch,Oct-Mar,River,All day,300,Medium (3),fish
+Zebra Turkeyfish,Apr-May and July-Nov,Ocean,All day,500,Medium (3),fish
+Common Butterfly,Sept-June,Flying,4AM-7PM,160,,bug
+Yellow Butterfly,Mar-June and Sept-Oct,Flying,4AM-7PM,160,,bug
+Tiger Butterfly,Mar-Sept,Flying,4AM-7PM,240,,bug
+Peacock Butterfly,Mar-June,"Flying, hybrid flowers",4AM-7PM,2500,,bug
+Common Bluebottle,Apr-Aug,Flying,4AM-7PM,300,,bug
+Paper Kite Butterfly,All year,Flying,8AM-7PM,1000,,bug
+Great Purple Emperor,May-Aug,Flying,4AM-7PM,3000,,bug
+Monarch Butterfly,Sept-Nov,Flying,4AM-5PM,140,,bug
+Emperor Butterfly,June-Sept and Dec-Mar,Flying,5PM-8AM,4000,,bug
+Agrias Butterfly,Apr-Sept,Flying,8AM-5PM,3000,,bug
+Raja Brooke's Birdwing,Apr-Sept,"Flying, purple flowers",8AM-5PM,2500,,bug
+Queen Alexandra's Birdwing,May-Sept,Flying,8AM-4PM,4000,,bug
+Moth,All year,Flying by light,7PM-4AM,130,,bug
+Atlas Moth,Apr-Sept,On trees,7PM-4AM,3000,,bug
+Madagascan Sunset Moth,Apr-Sept,Flying,8AM-4PM,2500,,bug
+Long Locust,Apr-Nov,On ground,8AM-7PM,200,,bug
+Migratory Locust,Aug-Nov,On ground,8AM-7PM,600,,bug
+Rice Grasshopper,Aug-Nov,On ground,8AM-7PM,160,,bug
+Grasshopper,Jul-Sept,On ground,8AM-5PM,160,,bug
+Cricket,Sept-Nov,On ground,5PM-8AM,130,,bug
+Bell Cricket,Sept-Oct,On ground,5PM-8AM,430,,bug
+Mantis,Mar-Nov,On flowers,8AM-5PM,430,,bug
+Orchid Mantis,Mar-Nov,"On flowers, white",8AM-5PM,2400,,bug
+Honeybee,Mar-July,Flying,8AM-5PM,200,,bug
+Wasp,All year,Falls from shaking trees,All day,2500,,bug
+Brown Cicada,Jul-Aug,On trees,8AM-5PM,250,,bug
+Robust Cicada,Jul-Aug,On trees,8AM-5PM,300,,bug
+Giant Cicada,Jul-Aug,On trees,8AM-5PM,600,,bug
+Walker Cicada,Aug-Sept,On trees,8AM-5PM,400,,bug
+Evening Cicada,Jul-Aug,On trees,4AM-8AM and 4PM-7PM,660,,bug
+Cicada Shell,Jul-Aug,On trees,All day,10,,bug
+Red Dragonfly,Sept-Oct,Flying,8AM-7PM,180,,bug
+Darner Dragonfly,Apr-Oct,Flying,8AM-5PM,230,,bug
+Banded Dragonfly,May-Oct,Flying,8AM-5PM,4500,,bug
+Damselfly,Nov-Feb,Flying,All day,500,,bug
+Firefly,June,Flying,7PM-4AM,300,,bug
+Mole Cricket,Nov-May,Underground,All day,500,,bug
+Pondskater,May-Sept,Ponds,8AM-7PM,130,,bug
+Diving Beetle,May-Sept,Ponds and rivers,8AM-7PM,800,,bug
+Giant Water Bug,Apr-Sept,Ponds and rivers,7PM-8AM,2000,,bug
+Stinkbug,Mar-Nov,On flowers,All day,120,,bug
+Man-faced Stink Bug,Mar-Nov,On flowers,7PM-8AM,1000,,bug
+Ladybug,Mar-June and Oct,On flowers,8AM-5PM,200,,bug
+Tiger Beetle,Feb-Nov,On ground,All day,1500,,bug
+Jewel Beetle,Apr-Aug,On tree stumps,All day,2400,,bug
+Violin Beetle,May-June and Sept-Nov,On tree stumps,All day,450,,bug
+Citrus Long-horned Beetle,All year,On tree stumps,All day,350,,bug
+Rosalia Batesi Beetle,May-Sept,On tree stumps,All day,3000,,bug
+Blue Weevil Beetle,Jul-Aug,On palm trees,All day,800,,bug
+Dung Beetle,Dec-Feb,Pushing snowballs,All day,3000,,bug
+Earth-boring Dung Beetle,Jul-Sept,On ground,All day,300,,bug
+Scarab Beetle,Jul-Aug,On trees,11PM-8AM,10000,,bug
+Drone Beetle,June-Aug,On trees,All day,200,,bug
+Goliath Beetle,June-Sept,On coconut trees,5PM-8AM,8000,,bug
+Saw Stag,Jul-Aug,On trees,All day,2000,,bug
+Miyama Stag,Jul-Aug,On trees,All day,1000,,bug
+Giant Stag,Jul-Aug,On trees,11PM-8AM,10000,,bug
+Rainbow Stag,June-Sept,On trees,7PM-8AM,6000,,bug
+Cyclommatus Stag,Jul-Aug,On trees,5PM-8AM,8000,,bug
+Golden Stag,Jul-Aug,On trees,5PM-8AM,12000,,bug
+Giraffe Stag,Jul-Aug,On trees,5PM-8AM,12000,,bug
+Horned Dynastid,Jul-Aug,On trees,5PM-8AM,1350,,bug
+Horned Atlas,Jul-Aug,On trees,5PM-8AM,8000,,bug
+Horned Elephant,Jul-Aug,On trees,5PM-8AM,8000,,bug
+Horned Hercules,Jul-Aug,On trees,5PM-8AM,12000,,bug
+Walking Stick,Jul-Nov,On trees,4AM-8AM and 5PM-7PM,600,,bug
+Walking Leaf,Jul-Aug,"Near trees, disguised as furniture leaf",All day,600,,bug
+Bagworm,All year,Falls from shaking trees,All day,600,,bug
+Ant,All year,On rotten food,All day,80,,bug
+Hermit Crab,All year,Beach,7PM-8AM,1000,,bug
+Wharf Roach,All year,On rocks at beach,All day,200,,bug
+Fly,All year,On trash items,All day,60,,bug
+Mosquito,June-Sept,Flying,5PM-4AM,130,,bug
+Flea,Apr-Nov,On villagers,All day,70,,bug
+Snail,All year,On rocks (raining),All day,250,,bug
+Pill Bug,Sept-June,Hit rocks,11PM-4PM,250,,bug
+Centipede,Sept-June,Hit rocks,4PM-11PM,300,,bug
+Spider,All year,Falls from shaking trees,7PM-8AM,480,,bug
+Tarantula,Nov-Apr,On ground,7PM-4AM,8000,,bug
+Scorpion,May-Oct,On ground,7PM-4AM,8000,,bug

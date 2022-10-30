@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		
+		<title>Animal Crossing Fish Finder</title>
+		
+		<!-- Bootstrap CSS, JS, Popper.js, jQuery -->
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+		
+		<!-- Karla font -->
+		<link href="https://fonts.googleapis.com/css2?family=Karla&display=swap" rel="stylesheet">
+		
+		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+		
+		<style>
+
+		
+		#search-box {
+			background-color: #d9d9d9;
+		}
+		
+		.title {
+			position: absolute;
+			top: 35%;
+			left: 50%;
+			-moz-transform: translateX(-50%) translateY(-50%);
+			-webkit-transform: translateX(-50%) translateY(-50%);
+			transform: translateX(-50%) translateY(-50%);
+		}
+		
+		.header {
+			color: #F79E02;
+			font-family: 'Karla', sans-serif;
+			text-align: center;
+			font-size: 50px;
+		}
+		
+		.search {
+			margin-top: 40px;
+			display: flex;
+			justify-content: center;
+			font-family: 'Karla', sans-serif;
+		}
+		
+		.searchButton {
+			padding-top: 5px;
+			padding-bottom: 5px;
+			display: inline-block;
+			background-color: #5D5C61;
+			color: #F79E02;
+			border: 2px solid;
+			border-color: #F79E02;
+			border-radius: 8px;
+			transition: 0.3s;
+		}
+		
+		.searchButton:hover
+		{
+			color: white;
+			background-color: #F79E02;
+		}
+		
+		.leaf
+		{
+			margin-bottom: 30px;
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			width: 40px;
+			height: 40px;
+		}
+		
+		</style>
+	</head>
+	
+	<body style="background-color: #5D5C61;">
+	
+		<div class="title">
+		
+			<img class="leaf" src="{{url_for('static', filename='leaf.png')}}" align="middle" />
+		
+			<h1 class="header">Animal Crossing Creature Finder</h1>
+			
+			<div class="search">
+				<form class="form-inline my-2 my-lg-0" name="passdata" action="." method="POST">
+					<input id="search-box" class="form-control mr-sm-2" name="searchItem" type="search" placeholder="Search" aria-label="Search">
+					<button class="searchButton my-2 my-sm-0" type="submit">Search</button>
+				</form>
+			</div>
+			
+		</div>
+	</body>
+	
+</html>
